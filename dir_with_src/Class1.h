@@ -1,0 +1,14 @@
+//
+// Created by Maria.Baburina on 1/27/2018.
+//
+
+#ifndef VCSCHECKOUTTESTIDEAFILES_CLASS1_H
+#define VCSCHECKOUTTESTIDEAFILES_CLASS1_H
+
+
+class Class1 {
+
+};
+
+
+#endif //VCSCHECKOUTTESTIDEAFILES_CLASS1_H
